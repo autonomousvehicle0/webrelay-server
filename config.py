@@ -5,7 +5,7 @@ Configuration file for Real-Time Vehicle Control Communication System
 # Network Configuration
 SERVER_HOST = "0.0.0.0"  # Workshop server listens on all interfaces
 SERVER_PORT = 443
-WORKSHOP_IP = "vehicle-control-relay.onrender.com"  # localhost for same-computer testing
+WORKSHOP_IP = "webrelay-server-lqrn.onrender.com"  # localhost for same-computer testing
 
 # Connection Settings
 CONNECTION_TIMEOUT = 5  # seconds
